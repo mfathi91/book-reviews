@@ -1,0 +1,11 @@
+# Sapiens
+
+Date read: 2021-03-07
+
+Four milestones of human kind are discussed in the book:
+* Fire
+* Agriculture
+* Money
+* Science
+
+I specially liked the view of the book about if Sapiens have become happier, what is happiness and the future of Sapiens. 
