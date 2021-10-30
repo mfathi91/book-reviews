@@ -1,0 +1,13 @@
+# HOW TO AVOID A CLIMATE DISASTER
+
+Date read: 2021-05-06
+
+I had no idea how serious the climate change is, but after reading this book I got a pretty decent view of what is going on, what we need to do and an outlook of the near future with different scenarios.
+
+The book argues that we need to reach to net greenhouse gas/carbon zero by mid-century—from 51 billion tons to 0—, otherwise the consequences will be catastrophic. In case no actions take place by nations, the temperature gets warmer by ~1.1 ℃ until ~2050 and ~4.5 ℃ until 2100. (This is a massive change, taking into account that the average temperature of ice age was only 6 ℃ colder than today's temperature.) This change can lead to more hot days, more floods, droughts, poverty, massive climate migration and death of millions of people. The bitter truth is that the countries that contribute the least to the global warming, suffer the most as the weather gets warmer.
+
+The book also gives a decent overview of what activities cause how much emission—cement, steel, generating electricity, agriculture, riding cars, flying and keeping warm and cool—and the solutions that can be done to make these activities carbon-free. It also draws a vision of the steps that governments need to take and the responsibilities of the individuals of the society.
+
+What I liked about the book is that it relies on scientific studies and factfulness. The book is pretty well structured, so the reader easily understands the framework of the context.
+
+What the book could do better is that it heavily concentrates on making USA carbon-free. True, the US is the biggest player of the planet when it comes to climate change and aligning other nations together, but this may give the impression that the rest of the world is simply powerless.
